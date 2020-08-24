@@ -1,0 +1,8 @@
+Maize, my favorite crop! Maize, or corn (Zea mays spp. mays) is an annual cereal grain that was domesticated in the Basalas river basin 6,000-10,000 years ago from a weedy grass named teosinte. These tassels were grown in Molokai during a winter nursery a few years ago. Maize is in the clade Commelinids, distinguished by cell walls containing ferulic acid (a component of lignin). There are five different species in the Zea genus, one of which is perennial (Zea perennis).
+
+Clade: Angiosperms, Monocots, Commelinids
+Order: Poales
+Family: Poaceae
+Tribe: Andropogoneae
+Genus: Zea
+Species: mays
